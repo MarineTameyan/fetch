@@ -1,0 +1,23 @@
+.users-tablelist{
+    margin: 10px;
+    border: 1px solid black;
+    width: 1500px;
+}
+
+.users-tablelist th{
+    border: 1px solid black;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.users-tablelist td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+input{
+    margin: 10px;
+    width: 150px;
+    height: 30px;
+}
